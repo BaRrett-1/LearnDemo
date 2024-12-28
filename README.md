@@ -1,3 +1,3 @@
 # LearnDemo
-This is my first repo
-Author Rushikes Ranaware
+This is my first repo<br>
+Author Rushikesh Ranaware
